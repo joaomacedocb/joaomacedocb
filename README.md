@@ -5,6 +5,7 @@
 🌟 Passionate about technology, I’m always eager to learn new tools and contribute to exciting projects.  
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaomacedocb)](https://github.com/joaomacedocb/github-readme-stats)
 
 ### 🛠️ Programming languages and frameworks 
 
