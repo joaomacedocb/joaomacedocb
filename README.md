@@ -1,16 +1,106 @@
-## Hi there 👋
+# EN:
+---
 
-<!--
-**joaomacedocb/joaomacedocb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm João Macedo!  
 
-Here are some ideas to get you started:
+💻 In IT since 2015 and a developer since 2021, I have experience working on projects in finance, insurance, marketing, and retail sectors.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Passionate about technology, I’m always eager to learn new tools and contribute to exciting projects.  
+
+---
+
+### 🛠️ Technologies and Tools  
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+### 🗄️ Databases  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+### ⚙️ Tools and Services  
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+## 📚 Currently Learning:  
+- FAST API  
+- Best practices for microservices and scalability  
+
+## 💡 A bit more about me:  
+- 🎯 Focused on web development  
+- 🤝 Experienced in software requirements and business insights  
+- 🌐 Open to remote work opportunities  
+
+📫 **Reach me at:**  
+[LinkedIn](https://linkedin.com/in/joaomacedocb) | [Email](mailto:joaomacedocb@gmail.com)  
+
+---  
+
+# PT-BR
+
+## 👋 Olá, eu sou João Macedo!  
+
+💻 Na TI desde 2015 e desenvolvedor desde 2021, com experiência em projetos nos setores financeiro, seguro, marketing e de varejo.
+
+🌟 Apaixonado por tecnologia, estou sempre em busca de aprender novas ferramentas e colaborar em projetos interessantes.  
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+### 🗄️ Banco de Dados  
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+### ⚙️ Ferramentas e Serviços  
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+## 📚 Atualmente aprendendo:  
+- FAST API 
+- Boas práticas de microsserviços e escalabilidade  
+
+## 💡 Um pouco mais sobre mim:  
+- 🎯 Foco em desenvolvimento web
+- 🤝 Experiência em requisitos de software e visão de negócios
+- 🌐 Interesse em oportunidades remotas 
+
+📫 **Entre em contato comigo:**  
+[LinkedIn](https://linkedin.com/in/joaomacedocb) | [Email](mailto:joaomacedocb@gmail.com)
+
+---
